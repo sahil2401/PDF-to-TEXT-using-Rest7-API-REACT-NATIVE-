@@ -1,5 +1,5 @@
 # PDF-to-TEXT-using-Rest7-API-REACT-NATIVE-
-React NAtive:-I have made a Demo App to select  PDF from documents and convert it into text than Display to (<TEXT>)
+I have made a Demo App to select PDF from documents and convert it into text than Display in (<TEXT> component) using API in REACT NATIVE
 
   get API_URL LINK from here : http://www.rest7.com/pdf_to_text 
   

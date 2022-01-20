@@ -18,6 +18,6 @@ React NAtive:-I have made a Demo App to select  PDF from documents and convert i
     import DocumentPicker from 'react-native-document-picker';
     import RNFS from 'react-native-fs
   
-  
+  (Select the PDF file, Press Upload, and Press Convert to Display Text)
   
 ![ss](https://user-images.githubusercontent.com/88420801/150281109-e43167de-d546-4643-a935-82c5af3003e7.jpeg)
